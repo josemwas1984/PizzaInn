@@ -1,0 +1,23 @@
+.container {
+    background-image: url("https://bit.ly/2VqzVPa");
+    background-size: cover;
+    margin-top: 0em;
+}
+#home img {
+    list-style-type: none;
+    font-style: italic;
+    padding: 0 4px;
+}
+h1 {
+    background-color: cornsilk;
+    font-style: url("https://bit.ly/2T2WvLY");
+    font-family: 'Tangerine', serif;
+    font-size: 60px;
+  }
+  a {
+      display: inline;
+      padding: 0 4px;
+  }
+  li {
+      display: inline;
+  }
