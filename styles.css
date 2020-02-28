@@ -1,10 +1,15 @@
-.container {
-    background-image: url("https://bit.ly/2VqzVPa");
+.container-main {
+    background-image: url("https://bit.ly/2VzWJM6");
     background-size: cover;
+    line-height: 3.0rem;
 }
 #home {
     font-style: italic;
     padding: 0 4px;
+}
+.menu-bar {
+  font-style: italic;
+  display: table-caption;
 }
 h1 {
     background-color: grey;
@@ -31,4 +36,21 @@ h1 {
       font-weight: 800;
       color: white;
       list-style-type: none;
+  }
+  .menu {
+      font-size: x-large;
+      background-color: hotpink; 
+  }
+  .form-a {
+    font-size: xx-large;
+    font-weight: 600;
+  }
+  .form-p {
+    display: table-row;
+  }
+  .select-menu {
+    font-size: x-large;
+    background-color: green;
+    color: white;
+    height: auto;
   }
