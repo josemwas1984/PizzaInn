@@ -39,7 +39,8 @@ h1 {
   }
   .menu {
       font-size: x-large;
-      background-color: hotpink; 
+      background-color: aquamarine;
+      tab-size: 2rem 2rem;
   }
   .form-a {
     font-size: xx-large;
@@ -61,5 +62,14 @@ h1 {
     width: 100%;
     background-color: mediumturquoise;
     color: black;
+    text-align: center;
+  }
+  .conta {
+    background-image: url("https://bit.ly/32GhuaG");
+    background-size: cover;
+    color: slategrey;
+    text-align: center;
+  }
+  .desc {
     text-align: center;
   }
